@@ -48,7 +48,12 @@ align-items: center;
 #imagee:hover{
   transform: scale(1.1);
 }
-
+#imagee img{
+height: 260px;
+width: 260px;
+/*border: 2px solid black;*/
+border-radius: 50%;
+}
 
 #cardblocks{
   margin: 7% auto  6% auto;
